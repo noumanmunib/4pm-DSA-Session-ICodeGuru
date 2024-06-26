@@ -1,4 +1,4 @@
-# Welcome to the DSA-4pm-Session-ICodeGuru
+# Welcome to the 4pm-DSA-Session-ICodeGuru
 
 **Here, You'll Find:**
 
