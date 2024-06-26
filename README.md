@@ -46,6 +46,13 @@
                     <sub><b>Muhammad Farooq</b></sub>
                 </a> 
             </td>
+           <td align="center">
+                <a href="https://www.linkedin.com/in/a-hannan/">
+                    <img src="" width="100px;" alt="Abdul Hannan"/>
+                    <br />
+                    <sub><b>Abdul Hannan</b></sub>
+                </a> 
+            </td>
         </tr> 
 </tbody>
 <table>
