@@ -9,7 +9,8 @@
 **Beginner Friendly DSA Lectures** This session is designed for absolute beginners helping them kicksatrt their coding journey. We will 
  cover major concepts along with practical implementation of of each datastructure. 
 
- **Roadmap:** [Click here](https://docs.google.com/document/d/1XdFS0ckZEp2Mi16ihCmVXggUelXf58EqPT5sV2wcxs0/edit#heading=h.opqh54m3nahp)
+**Roadmap:** [Click here](https://docs.google.com/document/d/1XdFS0ckZEp2Mi16ihCmVXggUelXf58EqPT5sV2wcxs0/edit#heading=h.opqh54m3nahp)
+
 **Join Our Community on [iCodeGuru](https://icode.guru/join/)**
 
 # Trainers & Moderators
@@ -38,6 +39,14 @@
                     <sub><b>Ilsa Afzaal</b></sub>
                 </a> 
             </td>
+            <td align="center">
+                <a href="https://www.linkedin.com/in/muhammad-farooq-489a16299/">
+                    <img src="" width="100px;" alt="Muhammad Farooq"/>
+                    <br />
+                    <sub><b>Muhammad Farooq</b></sub>
+                </a> 
+            </td>
+          
         </tr> 
 </tbody>
 <table>
