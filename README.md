@@ -25,6 +25,13 @@
                 </a> 
             </td>
             <td align="center">
+                <a href="https://github.com/khadijah-Shabir">
+                    <img src="https://avatars.githubusercontent.com/u/133489629?v=4" width="100px;" alt="khadijah-Shabir"/>
+                    <br />
+                    <sub><b>khadijah-Shabir</b></sub>
+                </a> 
+            </td>
+            <td align="center">
                 <a href="https://github.com/aminasaeed223">
                     <img src="https://avatars.githubusercontent.com/u/125123484?v=4" width="100px;" alt="Amina Saeed"/>
                     <br />
@@ -38,13 +45,7 @@
                     <sub><b>Ifrah Tariq </b></sub>
                 </a> 
             </td>
-            <td align="center">
-                <a href="https://github.com/khadijah-Shabir">
-                    <img src="https://avatars.githubusercontent.com/u/133489629?v=4" width="100px;" alt="khadijah-Shabir"/>
-                    <br />
-                    <sub><b>khadijah-Shabir</b></sub>
-                </a> 
-            </td>
+           
             <td align="center">
                 <a href="https://github.com/aamna-ansari">
                     <img src="https://avatars.githubusercontent.com/u/123650396?v=4" width="100px;" alt="AaMna AnSari"/>
