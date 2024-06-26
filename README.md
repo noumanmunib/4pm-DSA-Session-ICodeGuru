@@ -41,7 +41,7 @@
             </td>
             <td align="center">
                 <a href="https://www.linkedin.com/in/muhammad-farooq-489a16299/">
-                    <img src="" width="100px;" alt="Muhammad Farooq"/>
+                    <img src="	https://avatars.githubusercontent.com/u/161140921?v=4" width="100px;" alt="Muhammad Farooq"/>
                     <br />
                     <sub><b>Muhammad Farooq</b></sub>
                 </a> 
