@@ -1,4 +1,3 @@
-# DSA-4pm-Session-ICodeGuru
 # Welcome to the DSA-4pm-Session-ICodeGuru
 
 **What You'll Find Here:**
@@ -19,7 +18,7 @@
     <tbody>
         <tr>
             <td align="center">
-                <a href="https://github.com/arhamansari11">
+                <a href="https://github.com/noumanmunib">
                     <img src="https://avatars.githubusercontent.com/u/124850772?v=4" width="100px;" alt="Nouman Munib"/>
                     <br />
                     <sub><b>Nouman Munib</b></sub>
