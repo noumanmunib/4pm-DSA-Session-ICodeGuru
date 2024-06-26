@@ -1,15 +1,15 @@
 # Welcome to the DSA-4pm-Session-ICodeGuru
 
-**What You'll Find Here:**
+**Here, You'll Find:**
 
-**Practice Questions:** A collection of problems with varying difficulty levels to enhance problem-solving skills.
+**Slides:** Presentation slides used in the live sessions.
 
-**Solutions:** Step-by-step solutions to practice questions to help understand the approach and logic.
+**Tutorials:** Links to tutorials which can be utilized incase any student missed any class
 
-**Slides:** Presentation slides for use in teaching sessions.
+**Beginner Friendly DSA Lectures** This session is designed for absolute beginners helping them kicksatrt their coding journey. We will 
+ cover major concepts along with practical implementation of of each datastructure. 
 
-**Tutorials:** Links to video tutorials
-
+ **Roadmap:** [Click here](https://docs.google.com/document/d/1XdFS0ckZEp2Mi16ihCmVXggUelXf58EqPT5sV2wcxs0/edit#heading=h.opqh54m3nahp)
 **Join Our Community on [iCodeGuru](https://icode.guru/join/)**
 
 # Trainers & Moderators
