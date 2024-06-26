@@ -62,7 +62,7 @@
       <th>Material/Questions</th>
      </tr> 
     <tr>
-       <td align="center"><b>02</b></td>
+       <td align="center"><b>01</b></td>
        <td align="center"><b>Introduction to DSA</b></td>
        <td align="center"><a href="https://fb.watch/sWvOxyHnPe/">Introduction of DSA</td>
     <td align="center" ><a href="https://docs.google.com/presentation/d/1txuV1nfX6loDIdpSDsM8Rw51b2s1ToN9F90W83tHpi0/edit?usp=sharing">Slides</td>
