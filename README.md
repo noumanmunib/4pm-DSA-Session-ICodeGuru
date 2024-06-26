@@ -46,7 +46,6 @@
                     <sub><b>Muhammad Farooq</b></sub>
                 </a> 
             </td>
-          
         </tr> 
 </tbody>
 <table>
