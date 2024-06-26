@@ -19,7 +19,7 @@
         <tr>
             <td align="center">
                 <a href="https://github.com/noumanmunib">
-                    <img src="https://avatars.githubusercontent.com/u/124850772?v=4" width="100px;" alt="Nouman Munib"/>
+                    <img src= "https://avatars.githubusercontent.com/u/113182072?v=4" width="100px;" alt="Nouman Munib"/>
                     <br />
                     <sub><b>Nouman Munib</b></sub>
                 </a> 
@@ -32,25 +32,10 @@
                 </a> 
             </td>
             <td align="center">
-                <a href="https://github.com/aminasaeed223">
-                    <img src="https://avatars.githubusercontent.com/u/125123484?v=4" width="100px;" alt="Amina Saeed"/>
+                <a href="https://github.com/iaiu2142">
+                    <img src="	https://ugc.production.linktr.ee/3ef91572-6371-4ef…bcd9aa_Profile-Photo.png?io=true&size=avatar-v3_0" width="100px;" alt="Ilsa Afzaal"/>
                     <br />
-                    <sub><b>Khadijah Shabir</b></sub>
-                </a> 
-            </td>
-            <td align="center">
-                <a href="https://github.com/Ifrahtariq2">
-                    <img src="https://avatars.githubusercontent.com/u/169586130?v=4" width="100px;" alt="Ifrah Tariq"/>
-                    <br />
-                    <sub><b>Ifrah Tariq </b></sub>
-                </a> 
-            </td>
-           
-            <td align="center">
-                <a href="https://github.com/aamna-ansari">
-                    <img src="https://avatars.githubusercontent.com/u/123650396?v=4" width="100px;" alt="AaMna AnSari"/>
-                    <br />
-                    <sub><b>AaMna AnSari</b></sub>
+                    <sub><b>Ilsa Afzaal</b></sub>
                 </a> 
             </td>
         </tr> 
