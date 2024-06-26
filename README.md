@@ -18,21 +18,21 @@
     <tbody>
         <tr>
             <td align="center">
-                <a href="https://github.com/noumanmunib">
+                <a href="https://www.linkedin.com/in/nouman-munib/">
                     <img src= "https://avatars.githubusercontent.com/u/113182072?v=4" width="100px;" alt="Nouman Munib"/>
                     <br />
                     <sub><b>Nouman Munib</b></sub>
                 </a> 
             </td>
             <td align="center">
-                <a href="https://github.com/khadijah-Shabir">
+                <a href="https://www.linkedin.com/in/khadijah-shabir/">
                     <img src="https://avatars.githubusercontent.com/u/133489629?v=4" width="100px;" alt="khadijah-Shabir"/>
                     <br />
                     <sub><b>khadijah-Shabir</b></sub>
                 </a> 
             </td>
             <td align="center">
-                <a href="https://github.com/iaiu2142">
+                <a href="https://www.linkedin.com/in/ilsaafzaal/">
                     <img src="https://avatars.githubusercontent.com/u/81191657?v=4" width="100px;" alt="Ilsa Afzaal"/>
                     <br />
                     <sub><b>Ilsa Afzaal</b></sub>
