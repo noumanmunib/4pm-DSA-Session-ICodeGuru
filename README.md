@@ -75,6 +75,7 @@
     <td align="center" ><a href="https://docs.google.com/presentation/d/1txuV1nfX6loDIdpSDsM8Rw51b2s1ToN9F90W83tHpi0/edit?usp=sharing">Slides</td>
     </tr>
       <tr>
+    <td align="center"><b>02</b></td>
     <td align="center"><b>Introduction to Arrays</b></td>
     <td align="center"><a href="https://fb.watch/sWvyjKVSQ3/">Array Data Structure</td>
     <td align="center" ><a href="https://docs.google.com/presentation/d/1txuV1nfX6loDIdpSDsM8Rw51b2s1ToN9F90W83tHpi0/edit?usp=sharing">Slides</td  
