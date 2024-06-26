@@ -33,7 +33,7 @@
             </td>
             <td align="center">
                 <a href="https://github.com/iaiu2142">
-                    <img src="	https://ugc.production.linktr.ee/3ef91572-6371-4ef…bcd9aa_Profile-Photo.png?io=true&size=avatar-v3_0" width="100px;" alt="Ilsa Afzaal"/>
+                    <img src="https://avatars.githubusercontent.com/u/81191657?v=4" width="100px;" alt="Ilsa Afzaal"/>
                     <br />
                     <sub><b>Ilsa Afzaal</b></sub>
                 </a> 
@@ -48,7 +48,7 @@
 <table>
     <tbody>
      <tr>
-      <th> Days</th>
+      <th>Days</th>
       <th>Topic</th>
       <th>Video Links (Facebook)</br></th>
       <th>Material/Questions</th>
