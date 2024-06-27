@@ -83,8 +83,14 @@
   <tr>
        <td align="center"><b>03</b></td>
        <td align="center"><b>Leetcode 1512 - No. of Good Pairs</b></td>
-       <td align="center"><a href="https://fb.watch/sXMiJ8klRh/">Leetcode 1512 - No. of Good Pairs </td>
-      <td align="center" ><a href=""></td>
+       <td align="center"><a href="https://fb.watch/sXMiJ8klRh/">Tutorial </td>
+      <td align="center" ><a href="https://leetcode.com/problems/number-of-good-pairs/">Leetcode 1512 - No. of Good Pairs</td>
+    </tr>
+    <tr>
+       <td align="center"><b>04</b></td>
+       <td align="center"><b>Leetcode 1732 - Highest Altitude </b></td>
+       <td align="center"><a href="https://fb.watch/sZh2Z8UBYM/"> Tutorial </td>
+      <td align="center" ><a href="https://leetcode.com/problems/find-the-highest-altitude/">Leetcode 1732 - Highest Altitude</td>
     </tr>
      
      
