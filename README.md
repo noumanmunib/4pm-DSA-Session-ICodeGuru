@@ -79,6 +79,15 @@
     <td align="center"><b>Introduction to Arrays</b></td>
     <td align="center"><a href="https://fb.watch/sWvyjKVSQ3/">Array Data Structure</td>
     <td align="center" ><a href="https://docs.google.com/presentation/d/1txuV1nfX6loDIdpSDsM8Rw51b2s1ToN9F90W83tHpi0/edit?usp=sharing">Slides</td  
-  </tr>         
+  </tr>  
+  <tr>
+       <td align="center"><b>03</b></td>
+       <td align="center"><b>Leetcode 1512 - No. of Good Pairs</b></td>
+       <td align="center"><a href="https://fb.watch/sXMiJ8klRh/">Leetcode 1512 - No. of Good Pairs </td>
+      <td align="center" ><a href=""></td>
+    </tr>
+     
+     
+   
 </tbody>
 <table>
