@@ -48,7 +48,7 @@
             </td>
            <td align="center">
                 <a href="https://www.linkedin.com/in/a-hannan/">
-                    <img src="" width="100px;" alt="Abdul Hannan"/>
+                    <img src="https://avatars.githubusercontent.com/u/88274981?v=4" width="100px;" alt="Abdul Hannan"/>
                     <br />
                     <sub><b>Abdul Hannan</b></sub>
                 </a> 
