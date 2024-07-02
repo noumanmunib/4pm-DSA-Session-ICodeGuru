@@ -92,6 +92,12 @@
        <td align="center"><a href="https://fb.watch/sZh2Z8UBYM/"> Tutorial </td>
       <td align="center" ><a href="https://leetcode.com/problems/find-the-highest-altitude/">Leetcode 1732 - Highest Altitude</td>
     </tr>
+    <tr>
+       <td align="center"><b>05</b></td>
+       <td align="center"><b>Leetcode 217 - Contains Duplicate Leetcode 1470 - Shuffle Shuffle the Array" </b></td>
+       <td align="center"><a href="https://fb.watch/s_oird-UF3/"> Tutorial </td>
+      <td align="center" ><a href=" https://leetcode.com/problems/contains-duplicate/description/">217. Contains Duplicate </td>
+    </tr>
      
      
    
