@@ -96,9 +96,8 @@
        <td align="center"><b>05</b></td>
        <td align="center"><b>Leetcode 217 - Contains Duplicate Leetcode 1470 - Shuffle Shuffle the Array" </b></td>
        <td align="center"><a href="https://fb.watch/s_oird-UF3/"> Tutorial </td>
-        <div> <td align="center" ><a href="https://leetcode.com/problems/contains-duplicate/">217. Contains Duplicate </td>
-         <td align="center" ><a href="https://leetcode.com/problems/shuffle-the-array/">1470. Shuffle the Array </td>
-        </div>
+        <td align="center" ><a href="https://leetcode.com/problems/contains-duplicate/">217. Contains Duplicate<a href="https://leetcode.com/problems/shuffle-the-array/">1470. Shuffle the Array </td>
+        
       
     </tr>
      
