@@ -97,9 +97,25 @@
        <td align="center"><b>Leetcode 217 - Contains Duplicate Leetcode 1470 - Shuffle Shuffle the Array" </b></td>
        <td align="center"><a href="https://fb.watch/s_oird-UF3/"> Tutorial </td>
         <td align="center" ><a href="https://leetcode.com/problems/contains-duplicate/">217. Contains Duplicate </br><a href="https://leetcode.com/problems/shuffle-the-array/">1470. Shuffle the Array </td>
-        
-      
     </tr>
+
+
+  # Week 02
+
+<table>
+    <tbody>
+     <tr>
+      <th>Days</th>
+      <th>Topic</th>
+      <th>Video Links (Facebook)</br></th>
+      <th>Material/Questions</th>
+     </tr> 
+    <tr>
+       <td align="center"><b>01</b></td>
+       <td align="center"><b>Time Complexity</b></td>
+       <td align="center"><a href="https://fb.watch/t2qLIxPBJi/"> Time Complexity</td>
+      <td align="center" ><a href="https://docs.google.com/presentation/d/1kwoEYzxBZ601FH8bDg6RQmB6SUY-7RXv/edit?usp=sharing&ouid=100812210611231312080&rtpof=true&sd=true">Slides</td>
+      </tr>
      
      
    
