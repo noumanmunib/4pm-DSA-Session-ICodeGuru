@@ -140,7 +140,6 @@
             <td align="center"><b>LeetCode 387 - First Unique Character in a String</br>LeetCode 3168 - Minimum Number of Chairs in a Waiting Room</b></td>
             <td align="center"><a href="https://fb.watch/t7AuNvEwh1/">Video</a></td>
              <td align="center" ><a href="https://leetcode.com/problems/first-unique-character-in-a-string/description/">387. First Unique Character in a String</br><a href="https://leetcode.com/problems/minimum-number-of-chairs-in-a-waiting-room/description/">3168. Minimum Number of Chairs in a Waiting Room</td>
-            
         </tr>
     </tbody>
 </table>
