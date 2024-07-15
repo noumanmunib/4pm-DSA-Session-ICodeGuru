@@ -110,51 +110,6 @@
 | **03** | More Time & Space Complexity | [Video 3](https://fb.watch/t4ZgAE-d2t/) | [Slides](https://docs.google.com/presentation/d/1kwoEYzxBZ601FH8bDg6RQmB6SUY-7RXv/) |
 | **04** | LeetCode 344 - Reverse String | [Video](https://fb.watch/t6hwtD5-e1/) | [LeetCode 344 - Reverse String](https://leetcode.com/problems/reverse-string/description/) |
 | **05** | LeetCode 387 - First Unique Character in a String / LeetCode 3168 - Minimum Number of Chairs in a Waiting Room | [Video](https://fb.watch/t7AuNvEwh1/) | [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/) / [3168. Minimum Number of Chairs in a Waiting Room](https://leetcode.com/problems/minimum-number-of-chairs-in-a-waiting-room/description/) |
-
-
- # Week 02
-<table>
-    <tbody>
-        <tr>
-            <th>Days</th>
-            <th>Topic</th>
-            <th>Video Links (Facebook)</th>
-            <th>Material/Questions</th>
-        </tr>
-        <tr>
-            <td align="center"><b>01</b></td>
-            <td align="center"><b>Introduction to Time & Space Complexity</b></td>
-            <td align="center"><a href="https://fb.watch/t2qLIxPBJi/">Video 1</a></td>
-            <td align="center"><a href="https://docs.google.com/presentation/d/1kwoEYzxBZ601FH8bDg6RQmB6SUY-7RXv/">Slides</a></td>
-        </tr>
-        <tr>
-            <td align="center"><b>02</b></td>
-            <td align="center"><b>Introduction to Time & Space Complexity</b></td>
-            <td align="center"><a href="https://fb.watch/t4Zda_nlEr/">Video 2</a></td>
-            <td align="center"><a href="https://docs.google.com/presentation/d/1kwoEYzxBZ601FH8bDg6RQmB6SUY-7RXv/">Slides</a></td>
-        </tr>
-        <tr>
-            <td align="center"><b>03</b></td>
-            <td align="center"><b>More Time & Space Complexity</b></td>
-            <td align="center"><a href="https://fb.watch/t4ZgAE-d2t/">Video 3</a></td>
-            <td align="center"><a href="https://docs.google.com/presentation/d/1kwoEYzxBZ601FH8bDg6RQmB6SUY-7RXv/">Slides</a></td>
-        </tr>
-        <tr>
-            <td align="center"><b>04</b></td>
-            <td align="center"><b>LeetCode 344 - Reverse String</b></td>
-            <td align="center"><a href="https://fb.watch/t6hwtD5-e1/">Video</a></td>
-             <td align="center"><a href="https://leetcode.com/problems/reverse-string/description/">LeetCode 344 - Reverse String</a></td>
-            
-        </tr>
-         <tr>
-                <td align="center"><b>05</b></td>
-                <td align="center"><b>LeetCode 387 - First Unique Character in a String</br>LeetCode 3168 - Minimum Number of Chairs in a Waiting Room</b></td>
-                <td align="center"><a href="https://fb.watch/t7AuNvEwh1/">Video</a></td>
-                <td align="center"><a href="https://leetcode.com/problems/first-unique-character-in-a-string/description/">387. First Unique Character in a String</br> 
-           <ahref="https://leetcode.com/problems/minimum- number-of-chairs-in-a-waiting-room/description/">3168. Minimum Number of Chairs in a Waiting Room</td>
-            </tr>   
-     </tbody>
-</table>
       
  # Week 03
 <table>
