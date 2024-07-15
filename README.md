@@ -101,6 +101,17 @@
 </tbody>
 <table>
 
+# Week 02
+
+| Days | Topic | Video Links (Facebook) | Material/Questions |
+|------|-------|------------------------|--------------------|
+| **01** | Introduction to Time & Space Complexity | [Video 1](https://fb.watch/t2qLIxPBJi/) | [Slides](https://docs.google.com/presentation/d/1kwoEYzxBZ601FH8bDg6RQmB6SUY-7RXv/) |
+| **02** | Introduction to Time & Space Complexity | [Video 2](https://fb.watch/t4Zda_nlEr/) | [Slides](https://docs.google.com/presentation/d/1kwoEYzxBZ601FH8bDg6RQmB6SUY-7RXv/) |
+| **03** | More Time & Space Complexity | [Video 3](https://fb.watch/t4ZgAE-d2t/) | [Slides](https://docs.google.com/presentation/d/1kwoEYzxBZ601FH8bDg6RQmB6SUY-7RXv/) |
+| **04** | LeetCode 344 - Reverse String | [Video](https://fb.watch/t6hwtD5-e1/) | [LeetCode 344 - Reverse String](https://leetcode.com/problems/reverse-string/description/) |
+| **05** | LeetCode 387 - First Unique Character in a String / LeetCode 3168 - Minimum Number of Chairs in a Waiting Room | [Video](https://fb.watch/t7AuNvEwh1/) | [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/) / [3168. Minimum Number of Chairs in a Waiting Room](https://leetcode.com/problems/minimum-number-of-chairs-in-a-waiting-room/description/) |
+
+
  # Week 02
 <table>
     <tbody>
@@ -135,13 +146,15 @@
              <td align="center"><a href="https://leetcode.com/problems/reverse-string/description/">LeetCode 344 - Reverse String</a></td>
             
         </tr>
-        <tr>
-           <td align="center"><b>05</b></td>
-           <td align="center"><b>LeetCode 387 - First Unique Character in a String</br>LeetCode 3168 - Minimum Number of Chairs in a Waiting Room</b></td>
-           <td align="center"><a href="https://fb.watch/t7AuNvEwh1/">Video</a></td>
-           <td align="center"><a href="https://leetcode.com/problems/first-unique-character-in-a-string/description/">387. First Unique Character in a String</br><a href="https://leetcode.com/problems/minimum- 
-               number-of-chairs-in-a-waiting-room/description/">3168. Minimum Number of Chairs in a Waiting Room</td>
-        </tr>
+         <tr>
+                <td align="center"><b>05</b></td>
+                <td align="center"><b>LeetCode 387 - First Unique Character in a String</br>LeetCode 3168 - Minimum Number of Chairs in a Waiting Room</b></td>
+                <td align="center"><a href="https://fb.watch/t7AuNvEwh1/">Video</a></td>
+                <td align="center"><a href="https://leetcode.com/problems/first-unique-character-in-a-string/description/">387. First Unique Character in a String</br> 
+           <ahref="https://leetcode.com/problems/minimum- number-of-chairs-in-a-waiting-room/description/">3168. Minimum Number of Chairs in a Waiting Room</td>
+            </tr>   
+     </tbody>
+</table>
       
  # Week 03
 <table>
