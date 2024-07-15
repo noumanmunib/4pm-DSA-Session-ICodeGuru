@@ -142,3 +142,63 @@
         </tr>
     </tbody>
 </table>
+
+ # Week 03
+<table>
+    <tbody>
+        <tr>
+            <th>Days</th>
+            <th>Topic</th>
+            <th>Video Links (Facebook)</th>
+            <th>Material/Questions</th>
+        </tr>
+        <tr>
+            <td align="center"><b>01</b></td>
+            <td align="center"><b>Leetcode 345 - Reverse Vowels of a String</b></td>
+            <td align="center"><a href="https://fb.watch/td0r3arnEX/">Video 1</a></td>
+            <td align="center"><a href="https://leetcode.com/problems/reverse-vowels-of-a-string/">Reverse Vowels of a String</a></td>
+        </tr>
+        <tr>
+            <td align="center"><b>02</b></td>
+            <td align="center"><b>Introducton to Linked List</b></td>
+            <td align="center"><a href="https://fb.watch/td0pkRkH8c/">Video 2</a></td>
+            <td align="center"><a href="https://docs.google.com/presentation/d/1zU0PpUIQQOncVMGFCh_8ucLVcMPYJJHkzXBrvsOLis0/edit#slide=id.p">Slides</a></td>
+        </tr>
+        <tr>
+            <td align="center"><b>03</b></td>
+            <td align="center"><b>Practical Implentation of LinkedList in Python</b></td>
+            <td align="center"><a href="https://www.facebook.com/share/v/tbg1mmLDcozMASc2/?mibextid=oFDknk">Video 3</a></td>
+            <td align="center"><a href="https://docs.google.com/presentation/d/1zU0PpUIQQOncVMGFCh_8ucLVcMPYJJHkzXBrvsOLis0/edit#slide=id.p">Slides</a></td>
+        </tr>
+        <tr>
+            <td align="center"><b>04</b></td>
+            <td align="center"><b></b></td>
+            <td align="center"><a href="https://www.facebook.com/share/v/GC6s7qyDw4mmXczk/?mibextid=oFDknk">Video</a></td>
+            <td align="center">No Slide in This Session</td>
+        </tr>
+        <tr>
+            <td align="center"><b>05</b></td>
+            <td align="center"><b>LeetCode 387 - First Unique Character in a String</br>LeetCode 3168 - Minimum Number of Chairs in a Waiting Room</b></td>
+            <td align="center"><a href="https://fb.watch/t7AuNvEwh1/">Video</a></td>
+            <td align="center">No Slide in This Session</td>
+        </tr>
+    </tbody>
+</table>
+
+ # Week 03
+<table>
+    <tbody>
+        <tr>
+            <th>Days</th>
+            <th>Topic</th>
+            <th>Video Links (Facebook)</th>
+            <th>Material/Questions</th>
+        </tr>
+        <tr>
+            <td align="center"><b>01</b></td>
+            <td align="center"><b>Introduction to Stack Data Structure</b></td>
+            <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/423203834038497">Video 1</a></td>
+            <td align="center"><a href="https://docs.google.com/presentation/d/1f8kwr101Vgs7SapNbOy10SsczMfTmn_X/edit#slide=id.p1">Slides</a></td>
+        </tr>
+        </tbody>
+</table>
