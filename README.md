@@ -172,15 +172,15 @@
         </tr>
         <tr>
             <td align="center"><b>04</b></td>
-            <td align="center"><b></b></td>
-            <td align="center"><a href="https://www.facebook.com/share/v/GC6s7qyDw4mmXczk/?mibextid=oFDknk">Video</a></td>
-            <td align="center">No Slide in This Session</td>
+            <td align="center"><b>206. Reverse Linked List </br>21. Merge Two Sorted Lists</b></td>
+            <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/501940419065240">Video</a></td>
+            <td align="center" ><a href="https://leetcode.com/problems/reverse-linked-list/description/">206. Reverse Linked List </br><a href="https://leetcode.com/problems/merge-two-sorted-lists/">21. Merge Two Sorted Lists </td>
         </tr>
         <tr>
             <td align="center"><b>05</b></td>
-            <td align="center"><b>LeetCode 387 - First Unique Character in a String</br>LeetCode 3168 - Minimum Number of Chairs in a Waiting Room</b></td>
-            <td align="center"><a href="https://fb.watch/t7AuNvEwh1/">Video</a></td>
-            <td align="center">No Slide in This Session</td>
+            <td align="center"><b> 83-Remove Duplicates from Sorted List</b></td>
+            <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/859945082681794">Video</a></td>
+            <td align="center" ><a href="https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/">83-Remove Duplicates from Sorted List</td>
         </tr>
     </tbody>
 </table>
