@@ -194,3 +194,44 @@
         </tr>
         </tbody>
 </table>
+# Week 05
+<table>
+    <tbody>
+        <tr>
+            <th>Days</th>
+            <th>Topic</th>
+            <th>Video Links (Facebook)</th>
+            <th>Material/Questions</th>
+        </tr>
+        <tr>
+            <td align="center"><b>01</b></td>
+            <td align="center"><b>Introduction to Queue Data Structure <br>933. Number of Recent Calls</b></td>
+            <td align="center"><a href="https://www.facebook.com/share/v/FXESbCeN5ZVuBYJ9/">Video</a></td>
+            <td align="center"><a href="https://docs.google.com/presentation/d/1b_SlMK9ZarCr9ilAg9ZFHamet_GFQIupZVXARcQq1Nc/edit?pli=1#slide=id.g2e9cf5ae6cd_0_27">Slides</a> <br><a href="https://leetcode.com/problems/number-of-recent-calls/description/">933. Number of Recent Calls</a></td>
+        </tr>
+        <tr>
+            <td align="center"><b>02</b></td>
+            <td align="center"><b>933. Number of Recent Calls</b></td>
+            <td align="center"><a href="https://www.facebook.com/share/v/w8KdZhyq3MYzaX6o/">Video</a></td>
+            <td align="center"><a href="https://leetcode.com/problems/number-of-recent-calls/description/">933. Number of Recent Calls</a></td>
+        </tr>
+         <tr>
+            <td align="center"><b>03</b></td>
+            <td align="center"><b>950. Reveal Cards In Increasing Order</b></td>
+            <td align="center"><a href="https://www.facebook.com/share/v/H8AZV2H7xthJDC8Z/">Video</a></td>
+            <td align="center"><a href="https://leetcode.com/problems/reveal-cards-in-increasing-order/description/">950. Reveal Cards In Increasing Order</a></td>
+        </tr>
+        <tr>
+            <td align="center"><b>04</b></td>
+            <td align="center"><b>Introduction to Binary Search <br>374. Guess Number Higher or Lower</b></td>
+            <td align="center"><a href="https://www.facebook.com/share/v/D4CTjtiexB2sERt4/">Video</a></td>
+            <td align="center"><a href="https://leetcode.com/problems/guess-number-higher-or-lower/description/">374. Guess Number Higher or Lower</a></td>
+        </tr>
+         <tr>
+            <td align="center"><b>05</b></td>
+            <td align="center"><b>35. Search Insert Position <br>704. Binary Search</b></td>
+            <td align="center"><a href="https://www.facebook.com/share/v/UrV9okfySPhVc56B/">Video</a></td>
+            <td align="center"><a href="https://leetcode.com/problems/search-insert-position/description/">35. Search Insert Position</a><br><a href="https://leetcode.com/problems/binary-search/description/">704. Binary Search</a></td>
+        </tr>
+        </tbody>
+</table>
