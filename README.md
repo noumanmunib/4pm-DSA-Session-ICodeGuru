@@ -168,5 +168,29 @@
             <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/423203834038497">Video 1</a></td>
             <td align="center"><a href="https://docs.google.com/presentation/d/1f8kwr101Vgs7SapNbOy10SsczMfTmn_X/edit#slide=id.p1">Slides</a></td>
         </tr>
+        <tr>
+            <td align="center"><b>02</b></td>
+            <td align="center"><b></b></td>
+            <td align="center"><a></a></td>
+            <td align="center"><a href=""></a></td>
+        </tr>
+         <tr>
+            <td align="center"><b>03</b></td>
+            <td align="center"><b></b></td>
+            <td align="center"><a></a></td>
+            <td align="center"><a href=""></a></td>
+        </tr>
+        <tr>
+            <td align="center"><b>04</b></td>
+            <td align="center"><b>1475. Final Prices With a Special Discount in a Shop</b></td>
+            <td align="center"><a href="https://www.facebook.com/share/v/D4CTjtiexB2sERt4/">Video</a></td>
+            <td align="center"><a href="https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/description/">1475. Final Prices With a Special Discount in a Shop</a></td>
+        </tr>
+         <tr>
+            <td align="center"><b>05</b></td>
+            <td align="center"><b>402. Remove K Digits <br>20. Valid Parentheses</b></td>
+            <td align="center"><a href="https://www.facebook.com/share/v/tgT3P6bY7ueUTVLT/">Video</a></td>
+            <td align="center"><a href="https://leetcode.com/problems/remove-k-digits/description/">402. Remove K Digits</a> <br> <a href="https://leetcode.com/problems/valid-parentheses/description/">20. Valid Parentheses</a></td>
+        </tr>
         </tbody>
 </table>
