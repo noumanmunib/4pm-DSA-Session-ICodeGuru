@@ -236,3 +236,46 @@
         </tr>
         </tbody>
 </table>
+
+
+# Week 08
+<table>
+    <tbody>
+        <tr>
+            <th>Days</th>
+            <th>Topic</th>
+            <th>Video Links (Facebook)</th>
+            <th>Material/Questions</th>
+        </tr>
+        <tr>
+            <td align="center"><b>01</b></td>
+            <td align="center"><b>Merge Sort Leetcode</b></td>
+            <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/508803488333338">Video</a></td>
+            <td align="center"><a href="https://leetcode.com/problems/sort-an-array/">Sort an Array</a></td>
+        </tr>
+        <tr>
+            <td align="center"><b>02</b></td>
+            <td align="center"><b>Introduction to Tree Datastructure</b></td>
+            <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/461420900063400">Video</a></td>
+            <td align="center"><a href="https://docs.google.com/presentation/d/1puGtXbHrTtfmmMZPOHfGOLPNtqAfGfNSloMXxhOFVHc/edit?usp=sharin">Slides link</a></td>
+        </tr>
+         <tr>
+            <td align="center"><b>03</b></td>
+            <td align="center"><b>Introduction to Tree Datastructure</b></td>
+            <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/1001174978357579/">Video</a></td>
+            <td align="center"><a href="https://docs.google.com/presentation/d/1puGtXbHrTtfmmMZPOHfGOLPNtqAfGfNSloMXxhOFVHc/edit?usp=sharin">Slides link</a></td>
+        </tr>
+        <tr>
+            <td align="center"><b>04</b></td>
+            <td align="center"><b>Leetcode-Merge two Binary Trees <br> Invert Binary Tree </b></td>
+            <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/807049218246917">Video</a></td>
+            <td align="center"><a href="https://leetcode.com/problems/merge-two-binary-trees/">Merge two Binary Trees</a><br><a href="https://leetcode.com/problems/invert-binary-tree/">Invert Binary Tree</a></td>
+        </tr>
+         <tr>
+            <td align="center"><b>05</b></td>
+            <td align="center"><b>1022. Sum of Root To Leaf Binary Numbers</b></td>
+            <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/1240372160457775">Video</a></td>
+            <td align="center"><a href="https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/description/"></a>1022. Sum of Root To Leaf Binary Numbers</td>
+        </tr>
+        </tbody>
+</table>
