@@ -237,6 +237,49 @@
         </tbody>
 </table>
 
+# Week 07
+<table>
+    <tbody>
+        <tr>
+            <th>Days</th>
+            <th>Topic</th>
+            <th>Video Links (Facebook)</th>
+            <th>Material/Questions</th>
+        </tr>
+        <tr>
+            <td align="center"><b>01</b></td>
+            <td align="center"><b>Leetcode-Roman to Integer</b></td>
+            <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/1028663068891245">Video</a></td>
+            <td align="center"><a href="https://leetcode.com/problems/roman-to-integer/">Roman to Integer</a></td>
+        </tr>
+        <tr>
+            <td align="center"><b>02</b></td>
+            <td align="center"><b>290. Word Pattern</b></td>
+            <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/501530178925924">Video</a></td>
+            <td align="center"><a href="https://leetcode.com/problems/word-pattern/description/">290. Word Pattern</a></td>
+        </tr>
+         <tr>
+            <td align="center"><b>03</b></td>
+            <td align="center"><b>Bubble Sort</b></td>
+            <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/816726187292227">Video</a></td>
+            <td align="center"><a href="https://www.hackerearth.com/practice/algorithms/sorting/merge-sort/visualize/">Bubble sort Visualizer</a></td>
+        </tr>
+        <tr>
+            <td align="center"><b>04</b></td>
+            <td align="center"><b>Merge Sort </b></td>
+            <td align="center"><a href="https://drive.google.com/file/d/1eN8k5BDMVOjtndjIXBxkt3fuIO5V4hfe/view?usp=sharing">Video</a></td>
+            <td align="center"><a href="https://www.hackerearth.com/practice/algorithms/sorting/merge-sort/visualize/">Merge Sort Visualizer</a></td>
+        </tr>
+         <tr>
+            <td align="center"><b>05</b></td>
+            <td align="center"><b>705. Design HashSet in JS</b></td>
+            <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/1240372160457775">Video</a></td>
+            <td align="center"><a href="https://leetcode.com/problems/design-hashset/">705. Design HashSet in JS</a></td>
+        </tr>
+        </tbody>
+</table>
+
+
 
 # Week 08
 <table>
@@ -257,13 +300,13 @@
             <td align="center"><b>02</b></td>
             <td align="center"><b>Introduction to Tree Datastructure</b></td>
             <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/461420900063400">Video</a></td>
-            <td align="center"><a href="https://docs.google.com/presentation/d/1puGtXbHrTtfmmMZPOHfGOLPNtqAfGfNSloMXxhOFVHc/edit?usp=sharin">Slides link</a></td>
+            <td align="center"><a href="https://docs.google.com/presentation/d/1puGtXbHrTtfmmMZPOHfGOLPNtqAfGfNSloMXxhOFVHc/edit?usp=sharing">Slides link</a></td>
         </tr>
          <tr>
             <td align="center"><b>03</b></td>
             <td align="center"><b>Introduction to Tree Datastructure</b></td>
             <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/1001174978357579/">Video</a></td>
-            <td align="center"><a href="https://docs.google.com/presentation/d/1puGtXbHrTtfmmMZPOHfGOLPNtqAfGfNSloMXxhOFVHc/edit?usp=sharin">Slides link</a></td>
+            <td align="center"><a href="https://docs.google.com/presentation/d/1puGtXbHrTtfmmMZPOHfGOLPNtqAfGfNSloMXxhOFVHc/edit?usp=sharing">Slides link</a></td>
         </tr>
         <tr>
             <td align="center"><b>04</b></td>
