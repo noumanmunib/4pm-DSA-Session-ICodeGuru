@@ -275,7 +275,7 @@
             <td align="center"><b>05</b></td>
             <td align="center"><b>1022. Sum of Root To Leaf Binary Numbers</b></td>
             <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/1240372160457775">Video</a></td>
-            <td align="center"><a href="https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/description/"></a>1022. Sum of Root To Leaf Binary Numbers</td>
+            <td align="center"><a href="https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/description/">1022. Sum of Root To Leaf Binary Numbers</a></td>
         </tr>
         </tbody>
 </table>
