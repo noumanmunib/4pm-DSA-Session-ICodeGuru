@@ -273,7 +273,7 @@
           <tr>
             <td align="center"><b>05</b></td>
             <td align="center"><b>1512. Number of Good Pairs <br> 387. First Unique Character in a String</b></td>
-            <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/900567911839314">Video</a></td>
+            <td align="center"><a href="">Unavailable</a></td>
             <td align="center"><a href="https://leetcode.com/problems/number-of-good-pairs/description/">1512. Number of Good Pairs</a> <br> <a href="https://leetcode.com/problems/first-unique-character-in-a-string/">387. First Unique Character in a String</a></td>
         </tr>
         </tbody>
