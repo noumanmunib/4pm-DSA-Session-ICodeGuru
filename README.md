@@ -237,6 +237,49 @@
         </tbody>
 </table>
 
+# Week 06
+<table>
+    <tbody>
+        <tr>
+            <th>Days</th>
+            <th>Topic</th>
+            <th>Video Links (Facebook)</th>
+            <th>Material/Questions</th>
+        </tr>
+        <tr>
+            <td align="center"><b>01</b></td>
+            <td align="center"><b>Two Pointers Slides</b></td>
+            <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/1501059820499765">Video</a></td>
+            <td align="center"><a href="https://drive.google.com/file/d/1f02ymNRYm9W-Dy8YUPb9ZBpmYgaYUXZ_/view?usp=sharing">Two Pointers Slides</a></td>
+        </tr>
+         <tr>
+            <td align="center"><b>02</b></td>
+            <td align="center"><b>11. Container With Most Water</b></td>
+            <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/1227186705117663">Video</a></td>
+            <td align="center"><a href="https://leetcode.com/problems/container-with-most-water/">11. Container With Most Water</a></td>
+        </tr>
+        <tr>
+            <td align="center"><b>03</b></td>
+            <td align="center"><b>167. Two Sum II - Input Array Is Sorted</b></td>
+            <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/8363538363679902">Video</a></td>
+            <td align="center"><a href="https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/">167. Two Sum II - Input Array Is Sorted</a></td>
+        </tr>
+         <tr>
+            <td align="center"><b>04</b></td>
+            <td align="center"><b>Introduction to Dictionary</b></td>
+            <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/900567911839314">Video</a></td>
+            <td align="center"><a href="https://docs.google.com/presentation/d/1cLpYtYxbPFiz3Pn2zGOPoH04yBTAViWQ/edit?usp=sharing&ouid=101162096821212952917&rtpof=true&sd=true">Dictionary Slides Link</a></td>
+         </tr>
+          <tr>
+            <td align="center"><b>05</b></td>
+            <td align="center"><b>1512. Number of Good Pairs <br> 387. First Unique Character in a String</b></td>
+            <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/900567911839314">Video</a></td>
+            <td align="center"><a href="https://leetcode.com/problems/number-of-good-pairs/description/">1512. Number of Good Pairs</a> <br> <a href="https://leetcode.com/problems/first-unique-character-in-a-string/">387. First Unique Character in a String</a></td>
+        </tr>
+        </tbody>
+</table>
+
+
 # Week 07
 <table>
     <tbody>
@@ -273,7 +316,7 @@
          <tr>
             <td align="center"><b>05</b></td>
             <td align="center"><b>705. Design HashSet in JS</b></td>
-            <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/1240372160457775">Video</a></td>
+            <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/1878496465976383">Video</a></td>
             <td align="center"><a href="https://leetcode.com/problems/design-hashset/">705. Design HashSet in JS</a></td>
         </tr>
         </tbody>
